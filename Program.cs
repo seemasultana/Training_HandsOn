@@ -15,8 +15,8 @@ namespace Assignment1
             TechEmployees o1 = new TechEmployees("ram", "male","8/03/2000", 23, "ram@gmail.com", "ram123", 990, "associate engineer", "rishi", 2);
             
             Manager o2 = new Manager("rishi", "male", "9/03/1995", 28, "rishi59@yahoo.com", "rishi#213", 991, "HR department", "Associate HR", 7, "ram");
-           
 
+            Console.WriteLine("WELCOME TO HARMAN");
             Console.WriteLine("ARE YOU AN EXISTING EMPLOYEE");
             string ans = Console.ReadLine();
             if (ans == "yes")
