@@ -1,0 +1,8 @@
+C:\Users\rr3\source\repos\EmployeeeDetails\obj\Debug\EmployeeeDetails.csproj.AssemblyReference.cache
+C:\Users\rr3\source\repos\EmployeeeDetails\obj\Debug\EmployeeeDetails.csproj.SuggestedBindingRedirects.cache
+C:\Users\rr3\source\repos\EmployeeeDetails\obj\Debug\EmployeeeDetails.csproj.CoreCompileInputs.cache
+C:\Users\rr3\source\repos\EmployeeeDetails\bin\Debug\EmployeeeDetails.exe.config
+C:\Users\rr3\source\repos\EmployeeeDetails\bin\Debug\EmployeeeDetails.exe
+C:\Users\rr3\source\repos\EmployeeeDetails\bin\Debug\EmployeeeDetails.pdb
+C:\Users\rr3\source\repos\EmployeeeDetails\obj\Debug\EmployeeeDetails.exe
+C:\Users\rr3\source\repos\EmployeeeDetails\obj\Debug\EmployeeeDetails.pdb
