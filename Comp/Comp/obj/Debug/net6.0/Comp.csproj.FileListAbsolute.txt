@@ -1,0 +1,15 @@
+C:\Users\Alal\source\repos\Comp\Comp\bin\Debug\net6.0\Comp.exe
+C:\Users\Alal\source\repos\Comp\Comp\bin\Debug\net6.0\Comp.deps.json
+C:\Users\Alal\source\repos\Comp\Comp\bin\Debug\net6.0\Comp.runtimeconfig.json
+C:\Users\Alal\source\repos\Comp\Comp\bin\Debug\net6.0\Comp.dll
+C:\Users\Alal\source\repos\Comp\Comp\bin\Debug\net6.0\Comp.pdb
+C:\Users\Alal\source\repos\Comp\Comp\obj\Debug\net6.0\Comp.csproj.AssemblyReference.cache
+C:\Users\Alal\source\repos\Comp\Comp\obj\Debug\net6.0\Comp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alal\source\repos\Comp\Comp\obj\Debug\net6.0\Comp.AssemblyInfoInputs.cache
+C:\Users\Alal\source\repos\Comp\Comp\obj\Debug\net6.0\Comp.AssemblyInfo.cs
+C:\Users\Alal\source\repos\Comp\Comp\obj\Debug\net6.0\Comp.csproj.CoreCompileInputs.cache
+C:\Users\Alal\source\repos\Comp\Comp\obj\Debug\net6.0\Comp.dll
+C:\Users\Alal\source\repos\Comp\Comp\obj\Debug\net6.0\refint\Comp.dll
+C:\Users\Alal\source\repos\Comp\Comp\obj\Debug\net6.0\Comp.pdb
+C:\Users\Alal\source\repos\Comp\Comp\obj\Debug\net6.0\Comp.genruntimeconfig.cache
+C:\Users\Alal\source\repos\Comp\Comp\obj\Debug\net6.0\ref\Comp.dll
