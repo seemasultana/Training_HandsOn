@@ -1,0 +1,8 @@
+C:\Users\tporwal\source\repos\basi_Application\basi_Application\bin\Debug\basi_Application.exe.config
+C:\Users\tporwal\source\repos\basi_Application\basi_Application\bin\Debug\basi_Application.exe
+C:\Users\tporwal\source\repos\basi_Application\basi_Application\bin\Debug\basi_Application.pdb
+C:\Users\tporwal\source\repos\basi_Application\basi_Application\obj\Debug\RealTimeProject.csproj.AssemblyReference.cache
+C:\Users\tporwal\source\repos\basi_Application\basi_Application\obj\Debug\RealTimeProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\tporwal\source\repos\basi_Application\basi_Application\obj\Debug\RealTimeProject.csproj.CoreCompileInputs.cache
+C:\Users\tporwal\source\repos\basi_Application\basi_Application\obj\Debug\basi_Application.exe
+C:\Users\tporwal\source\repos\basi_Application\basi_Application\obj\Debug\basi_Application.pdb
