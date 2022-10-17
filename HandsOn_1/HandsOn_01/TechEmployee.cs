@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TejasiAssignment1
 {
-    internal class TechEmployee:Employee
+    public class TechEmployee:Employee
     {
 
         public string techEmployeeDesignation ;
