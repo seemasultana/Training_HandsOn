@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace TejasiAssignment1
 {
-    internal class Employee
+    public class Employee
     {
         public string name;
         public string empGender;
