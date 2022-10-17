@@ -1,8 +1,0 @@
-C:\Users\rr3\source\repos\Newproject\bin\Debug\Newproject.exe.config
-C:\Users\rr3\source\repos\Newproject\bin\Debug\Newproject.exe
-C:\Users\rr3\source\repos\Newproject\bin\Debug\Newproject.pdb
-C:\Users\rr3\source\repos\Newproject\obj\Debug\Newproject.csproj.AssemblyReference.cache
-C:\Users\rr3\source\repos\Newproject\obj\Debug\Newproject.csproj.SuggestedBindingRedirects.cache
-C:\Users\rr3\source\repos\Newproject\obj\Debug\Newproject.csproj.CoreCompileInputs.cache
-C:\Users\rr3\source\repos\Newproject\obj\Debug\Newproject.exe
-C:\Users\rr3\source\repos\Newproject\obj\Debug\Newproject.pdb
