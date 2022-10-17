@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TejasiAssignment1
 {
-    internal class Manager: Employee
+    public class Manager: Employee
     {
         public string Department;
         public string Title;
