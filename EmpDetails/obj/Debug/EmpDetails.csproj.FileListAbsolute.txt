@@ -1,0 +1,8 @@
+C:\Users\rr3\source\repos\EmpDetails\bin\Debug\EmpDetails.exe.config
+C:\Users\rr3\source\repos\EmpDetails\bin\Debug\EmpDetails.exe
+C:\Users\rr3\source\repos\EmpDetails\bin\Debug\EmpDetails.pdb
+C:\Users\rr3\source\repos\EmpDetails\obj\Debug\EmpDetails.csproj.AssemblyReference.cache
+C:\Users\rr3\source\repos\EmpDetails\obj\Debug\EmpDetails.csproj.SuggestedBindingRedirects.cache
+C:\Users\rr3\source\repos\EmpDetails\obj\Debug\EmpDetails.csproj.CoreCompileInputs.cache
+C:\Users\rr3\source\repos\EmpDetails\obj\Debug\EmpDetails.exe
+C:\Users\rr3\source\repos\EmpDetails\obj\Debug\EmpDetails.pdb
