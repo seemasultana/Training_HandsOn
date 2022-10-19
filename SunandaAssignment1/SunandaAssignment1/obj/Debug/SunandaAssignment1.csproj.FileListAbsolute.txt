@@ -1,0 +1,8 @@
+C:\Users\sagolu\source\repos\SunandaAssignment1\SunandaAssignment1\bin\Debug\SunandaAssignment1.exe.config
+C:\Users\sagolu\source\repos\SunandaAssignment1\SunandaAssignment1\bin\Debug\SunandaAssignment1.exe
+C:\Users\sagolu\source\repos\SunandaAssignment1\SunandaAssignment1\bin\Debug\SunandaAssignment1.pdb
+C:\Users\sagolu\source\repos\SunandaAssignment1\SunandaAssignment1\obj\Debug\SunandaAssignment1.csproj.AssemblyReference.cache
+C:\Users\sagolu\source\repos\SunandaAssignment1\SunandaAssignment1\obj\Debug\SunandaAssignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagolu\source\repos\SunandaAssignment1\SunandaAssignment1\obj\Debug\SunandaAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\sagolu\source\repos\SunandaAssignment1\SunandaAssignment1\obj\Debug\SunandaAssignment1.exe
+C:\Users\sagolu\source\repos\SunandaAssignment1\SunandaAssignment1\obj\Debug\SunandaAssignment1.pdb
