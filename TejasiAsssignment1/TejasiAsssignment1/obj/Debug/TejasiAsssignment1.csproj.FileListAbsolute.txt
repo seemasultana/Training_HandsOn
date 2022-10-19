@@ -1,0 +1,8 @@
+C:\Users\tporwal\source\repos\TejasiAsssignment1\TejasiAsssignment1\obj\Debug\TejasiAsssignment1.csproj.AssemblyReference.cache
+C:\Users\tporwal\source\repos\TejasiAsssignment1\TejasiAsssignment1\obj\Debug\TejasiAsssignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tporwal\source\repos\TejasiAsssignment1\TejasiAsssignment1\obj\Debug\TejasiAsssignment1.csproj.CoreCompileInputs.cache
+C:\Users\tporwal\source\repos\TejasiAsssignment1\TejasiAsssignment1\bin\Debug\TejasiAsssignment1.exe.config
+C:\Users\tporwal\source\repos\TejasiAsssignment1\TejasiAsssignment1\bin\Debug\TejasiAsssignment1.exe
+C:\Users\tporwal\source\repos\TejasiAsssignment1\TejasiAsssignment1\bin\Debug\TejasiAsssignment1.pdb
+C:\Users\tporwal\source\repos\TejasiAsssignment1\TejasiAsssignment1\obj\Debug\TejasiAsssignment1.exe
+C:\Users\tporwal\source\repos\TejasiAsssignment1\TejasiAsssignment1\obj\Debug\TejasiAsssignment1.pdb
