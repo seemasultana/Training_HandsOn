@@ -1,8 +1,0 @@
-C:\Users\lees\source\repos\Employee\Employee\bin\Debug\Employee.exe.config
-C:\Users\lees\source\repos\Employee\Employee\bin\Debug\Employee.exe
-C:\Users\lees\source\repos\Employee\Employee\bin\Debug\Employee.pdb
-C:\Users\lees\source\repos\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
-C:\Users\lees\source\repos\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
-C:\Users\lees\source\repos\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
-C:\Users\lees\source\repos\Employee\Employee\obj\Debug\Employee.exe
-C:\Users\lees\source\repos\Employee\Employee\obj\Debug\Employee.pdb
